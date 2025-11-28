@@ -17,7 +17,7 @@ holi
 
 ## Autores
 - **Valeria Andrea Parra García** – *valeriaparrag@javeriana.edu.co*
-- **María ALejandra Díaz Ortiz** – *mariaa-diaz@javeriana.edu.co*
+- **María Alejandra Díaz Ortiz** – *mariaa-diaz@javeriana.edu.co*
 ---
 # Este es un Título Principal (H1)
 
