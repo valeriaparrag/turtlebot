@@ -1,18 +1,39 @@
-# Turtlebot
-## Descripción del proyecto
-Este proyecto es un robot de accionamiento diferencial con sensor de ultrasonido que utiliza ROS 2. El robot puede moverse hacia adelante, atrás, izquierda y derecha mediante comandos, y si detecta un obstáculo, automáticamente retrocede y cambia su ruta.
+# Velociraptor robot
+## Project's description
+This project is a differential drive robot with an ultrasonic sensor that implements ROS 2. The robot can move forward, backward, left, and right by commands, and if it detects an obstacle, it automatically stops.
 
-## Partes del proyecto
+## Parts of the project
 holi holi holi  
 nodos de ROS en py  
 código de esp32 en c++  
 
-## Componentes del Hardware
+## Hardware components
 holi
-## Arquitectura del Software
+## Software architecture
 holi
-## Diagrama de flujo del sistema
+
+## Configuración e instalación
+### ESP32 configuration
+1. Download the package titled WifiESP
+   
+3. Check the port to which the ESP32 is connected  
+   a. Go to PlatformIO's configuration  
+   b. Follow the route  
+     `Default` → `general` → `devices`  
+   c. Check the port's number on the terminal  
+     For example:  
+     `/dev/ttyUSB0`  
+5. Grant permits to the port  // REVISAR CONCEPTOS
+
+### Configuración de ROS2
+
+### 
+
+### 
+
+## Diagrama de bloques del sistema
 holi
+
 ## Robot terminado y funcionando
 
 ## Autores
